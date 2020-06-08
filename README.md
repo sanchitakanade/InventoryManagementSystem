@@ -3,4 +3,4 @@
  
 ## Project Description
 In this project a user can perform CRUD (create, read, update and delete) operations on items in the invetory.
-This is a functional web application that enables user to fetch the list of available products, filter products based on category and price, add new product to the inventory and update or delete a particular product 
+It is a functional web application that enables user to fetch the list of available products, filter products based on category and price, add new product to the inventory and update or delete a particular product 
